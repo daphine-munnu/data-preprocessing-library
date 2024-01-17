@@ -24,7 +24,7 @@
 
 1. **Download and Install Dependencies:**
    - Download Apache Commons Math JAR, JOCL JAR , slf4j JAR and JAVE JAR.
-   - Add all JAR files to your project's classpath.
+   - Add all JAR files to your project's classpath (Should be detectable in your project libraries).
 
 2. **Configure IDE:**
    - If you're using an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse, ensure that the project is configured to use the downloaded JAR files.
