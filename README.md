@@ -1,21 +1,21 @@
 ### Dependencies:
 1. **Apache Commons Math 3.6.1:**
    - Download from: [Apache Commons Math](http://commons.apache.org/proper/commons-math/download_math.cgi)
-   - Add the JAR file (e.g., `commons-math3-3.6.1.jar`) to your project's classpath.
+   - Add the JAR file  `commons-math3-3.6.1.jar` to your project's classpath.
 
 2. **JAVE (Java Audio Video Encoder):**
    - Download from: [JAVE](https://github.com/a-schild/jave2)
-   - Add the JAR file (e.g., `jave-1.0.2.jar`) to your project's classpath.
+   - Add the JAR file  `jave-1.0.2.jar` to your project's classpath.
 
 3. **Java Swing (for GUI components):**
    - Included in standard Java libraries, no additional setup needed.
  
 3. **JOCL (Java bindings for OpenCL):**
-   - Download JOCL from the official JOCL GitHub repository: JOCL GitHub Releases (https://github.com/gpu/JOCL)
+   - Download JOCL from the official JOCL GitHub repository: [JOCL GitHub Releases](https://github.com/gpu/JOCL)
      
 4. **SLF4J (Simple Logging Facade for Java)**:
-   - Visit the SLF4J website: SLF4J
-   - Add slf4j-api-2.0.9.jar to your project's classpath.
+   - Visit the SLF4J website: [SLF4J](http://www.slf4j.org/)
+   - Add the JAR file `slf4j-api-2.0.9.jar` to your project's classpath.
      
 5. **JAVA SDK**:
    - JAVA 17 OR LATER
