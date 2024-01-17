@@ -14,7 +14,8 @@
    - Download JOCL from the official JOCL GitHub repository: JOCL GitHub Releases (https://github.com/gpu/JOCL)
      
 4. **SLF4J (Simple Logging Facade for Java)**:
-   - slf4j-api-2.0.9.jar
+   - Visit the SLF4J website: SLF4J
+   - Add slf4j-api-2.0.9.jar to your project's classpath.
      
 5. **JAVA SDK**:
    - JAVA 17 OR LATER
