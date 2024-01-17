@@ -11,8 +11,7 @@
    - Included in standard Java libraries, no additional setup needed.
  
 3. **JOCL (Java bindings for OpenCL):**
-   - Download JOCL from the official JOCL GitHub repository: JOCL GitHub Releases
-   -  Choose the appropriate version (e.g., jocl-2.x.x-all-platforms.7z).
+   - Download JOCL from the official JOCL GitHub repository: JOCL GitHub Releases (https://github.com/gpu/JOCL)
      
 4. **SLF4J (Simple Logging Facade for Java)**:
    - slf4j-api-2.0.9.jar
